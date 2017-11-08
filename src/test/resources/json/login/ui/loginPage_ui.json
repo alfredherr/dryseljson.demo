@@ -1,0 +1,32 @@
+[
+	{
+		"key":"loginHeader",
+		"elementID":".//*[@id='login']",
+		"inputEventName":null,
+		"outputEventName":"CompareText"
+	},
+	{
+		"key":"userName",
+		"elementID":".//*[@id='username']",
+		"inputEventName":"SendKeys",
+		"outputEventName":null
+	},
+	{
+		"key":"password",
+		"elementID":".//*[@id='password']",
+		"inputEventName":"SendKeys",
+		"outputEventName":null
+	},
+	{
+		"key":"loginButton",
+		"elementID":".//*[@id='button-login']",
+		"inputEventName":"Click",
+		"outputEventName":null
+	},
+	{
+		"key":"waitForMiliSeconds",
+		"elementID":"waitForMiliSeconds",
+		"inputEventName":"WaitForMiliSeconds",
+		"outputEventName":null
+	}
+]

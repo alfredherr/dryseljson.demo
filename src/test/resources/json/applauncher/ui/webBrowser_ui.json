@@ -1,0 +1,8 @@
+[
+	{
+		"key":"address",
+		"elementID":"addressBar",
+		"inputEventName":"OpenURL",
+		"outputEventName":null
+	}
+]

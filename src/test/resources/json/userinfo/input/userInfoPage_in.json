@@ -1,0 +1,42 @@
+[
+	{
+		"stepNumber":1,
+		"key":"firstName",
+		"value":"John"
+	},
+	{
+		"stepNumber":2,
+		"key":"lastName",
+		"value":"Dominiq"
+	},
+	{
+		"stepNumber":3,
+		"key":"addressLine1",
+		"value":"Orion Street"
+	},
+	{
+		"stepNumber":4,
+		"key":"addressLine2",
+		"value":"Apartment 106"
+	},
+	{
+		"stepNumber":5,
+		"key":"city",
+		"value":"Scottsdale"
+	},
+	{
+		"stepNumber":6,
+		"key":"state",
+		"value":"Arizona"
+	},
+	{
+		"stepNumber":7,
+		"key":"zip",
+		"value":"85255"
+	},
+	{
+		"stepNumber":8,
+		"key":"saveButton",
+		"value":null
+	}
+]
