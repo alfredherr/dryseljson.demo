@@ -1,0 +1,17 @@
+[
+	{
+		"stepNumber":1,
+		"key":"nameOut",
+		"value":"John Dominique"
+	},
+	{
+		"stepNumber":2,
+		"key":"addressOut1",
+		"value":"Orion Street, Apartment 106"
+	},
+	{
+		"stepNumber":3,
+		"key":"addressOut2",
+		"value":"Scottsdale, Arizona, 85255"
+	}
+]

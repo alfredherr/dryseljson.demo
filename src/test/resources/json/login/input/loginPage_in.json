@@ -1,0 +1,22 @@
+[
+	{
+		"stepNumber":1,
+		"key":"userName",
+		"value":"joe"
+	},
+	{
+		"stepNumber":2,
+		"key":"password",
+		"value":"admin"
+	},
+	{
+		"stepNumber":3,
+		"key":"loginButton",
+		"value":null
+	},
+	{
+		"stepNumber":4,
+		"key":"waitForMiliSeconds",
+		"value":"1000"
+	}
+]
